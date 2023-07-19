@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap'); 
+
+
+body{
+    background-color: #101D2A;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+nav{
+    background-color: #345C86 !important;
+    color: white !important;
+    border-bottom: 5px solid white;
+}
+
+nav .container .navbar-brand{
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+    color: white;
+}
+
+nav .container .navbar-toggler-icon{
+    background-color: white;
+    color: red;
+    border-color: white;
+}
+
+nav .container ul li{
+    padding-left: 20px;
+    
+}
+
+nav .container ul li a{
+    color: white;
+    font-size: 20px;
+    font-family: 'Kalam', cursive;
+}
+
+#showcase{
+    margin-top: 80px;
+}
+
+#showcase .container .row .col-lg-6 img{
+    height: 100%;
+    width: 100%;
+}
+
+#showcase .container .row .col-lg-6 h1{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Yatra One', cursive;
+    line-height: 70px;
+    padding-top: 30px;
+}
+
+#showcase .container .row .col-lg-6 button{
+    background-color: #345C86 !important;
+    font-family: 'Kalam', cursive;
+    border: none;
+    font-size: 20px;
+}
+
+#showcasevid{
+    margin-top: 50px;
+    background-color: #345C86;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 5px solid white;
+}
+
+#stand{
+    align-items: center;
+    justify-content: center;
+    font-family: 'Yatra One', cursive;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    padding: 50px 0px;
+}
+
+#prophecy{
+    padding: 50px 0px;
+}
+
+.comment{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    font-family: 'Kalam', cursive;
+    padding: 30px 0px;
+}
+
+.comment h3{
+    color: #345C86;
+    font-family: 'Yatra One', cursive;
+} 
+
+
+#about{
+    background-color: white;
+    margin-top: 50px;
+    color: #808080;
+    padding: 20px;
+    font-family: 'Kalam', cursive;
+    font-size: 18px;
+}
+
+
+#eventtext{
+    background-color: white;
+    margin-top: 50px;
+    color: #345C86;
+    font-family: 'Kalam', cursive;
+    
+}
+
+#eventtext p{
+   font-size: 20px;
+    
+}
+
+.eventtxt{
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.eveshift{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: black;
+}
+
+.cousedep{
+    color: black;
+}
+
+
+.eveshift h3{
+    font-weight: bold;
+}
+
+.eveshiftt{
+    margin-top: 30px;
+    color: black;
+}
+
+.eventvid{
+    margin-top: 50px;
+}
+
+
+.lasteve{
+    margin-top: 50px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;padding: 30px 0px;
+}
